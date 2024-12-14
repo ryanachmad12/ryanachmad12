@@ -26,15 +26,15 @@ Hello! I'm a passionate **Programmer**, **Coder**, and **Cybersecurity Researche
 
 ## 🌐 Connect with Me
 
-- **GitHub:** [Your GitHub Profile](#)
-- **Instagram:** [Your Instagram Profile](#)
-- **Email:** [Your Email](mailto:your.email@example.com)
+- **GitHub:** [[Github Profile](https://github.com/ryanachmad12)](#)
+- **Instagram:** [https://instagram.com/ryan_achmad78](#)
+- **Email:** [Email](mailto:ryanachmad@protonmail.com)
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanachmad12&theme=radical)
 
-![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=ryanachmad12&theme=react-dark&hide_border=true&area=true)
 
 ## ⚡ Fun Fact
 
