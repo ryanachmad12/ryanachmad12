@@ -26,8 +26,8 @@ Hello! I'm a passionate **Programmer**, **Coder**, and **Cybersecurity Researche
 
 ## 🌐 Connect with Me
 
-- **GitHub:** [[Github Profile](https://github.com/ryanachmad12)](#)
-- **Instagram:** [https://instagram.com/ryan_achmad78](#)
+- **GitHub:** [[Github Profile](https://github.com/ryanachmad12)]
+- **Instagram:** [Instagram](https://instagram.com/ryan_achmad78)
 - **Email:** [Email](mailto:ryanachmad@protonmail.com)
 
 ## 📊 GitHub Stats
