@@ -1,6 +1,6 @@
 # 🌌 About Me
 
-Hello! I'm a passionate **Programmer**, **Coder**, and **Cybersecurity Researcher**. I specialize in Linux tutorials, scripting, and building tools that enhance security and productivity.
+Hello! I'm a passionate **Programmer**, **Coder**, **Security Engineering** and **Cybersecurity Researcher**. I specialize in Linux tutorials, scripting, and building tools that enhance security and productivity.
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -26,9 +26,9 @@ Hello! I'm a passionate **Programmer**, **Coder**, and **Cybersecurity Researche
 
 ## 🌐 Connect with Me
 
-- **GitHub:** [[Github Profile](https://github.com/ryanachmad12)]
+- **GitHub:** [Github Profile](https://github.com/ryanachmad12)]
 - **Instagram:** [Instagram](https://instagram.com/ryan_achmad78)
-- **Email:** [Email](mailto:ryanachmad@protonmail.com)
+- **Email:** [Email](mailto:ryan@opslinuxsec.com)
 
 ## 📊 GitHub Stats
 
