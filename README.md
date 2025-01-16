@@ -26,7 +26,7 @@ Hello! I'm a passionate **Programmer**, **Coder**, **Security Engineering** and 
 
 ## 🌐 Connect with Me
 
-- **GitHub:** [Github Profile](https://github.com/ryanachmad12)]
+- **GitHub:** [Github Profile](https://github.com/ryanachmad12)
 - **Instagram:** [Instagram](https://instagram.com/ryan_achmad78)
 - **Email:** [Email](mailto:ryan@opslinuxsec.com)
 
