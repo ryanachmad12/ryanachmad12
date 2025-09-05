@@ -18,13 +18,13 @@ I focus on **Linux tutorials**, **scripting**, and building tools that enhance *
 C | Python | Shell
 
 # Areas of expertise
-CLI Tools | Shell | Scripting | Vim | I User Arch BTW
+CLI Tools | Shell | Scripting | Vim | I Use Arch BTW <3
 
 # Platforms
 Linux | Win | Web
 
 # Linux
-System Adminitration | Shell Scripting | Server Management
+System Adminitration | Automations | Server Management
 
 # Cyber Security
 Network Security | Penetration Testing | Malware Analysis
