@@ -1,26 +1,34 @@
-# About Me
+# Tech Enthusiast • Open Source Contributor
 
-Hello! I'm a passionate **Programmer**, **Security Engineer**, and **Cybersecurity Researcher**.  
-I focus on **Linux tutorials**, **scripting**, and building tools that enhance **security** and **productivity**.
-
----
-
-## Skills
-
-- **Programming:** Python, Bash, C  
-- **Cybersecurity:** Network Security, Penetration Testing, Malware Analysis  
-- **Linux:** System Administration, Shell Scripting, Server Management  
-- **Tools:** Git, Docker, VirtualBox  
+*"I like terminal prompts"* - and building tools that make anyone' lives easier
 
 ---
 
-## Current Projects
+## What I Build
+I'm a passionate **Programmer**, **Security Engineer**, and **Cybersecurity Researcher**.  
+I focus on **Linux tutorials**, **scripting**, and building tools that enhance **security** and **productivity**. that streamline workflows. My projects focus on:
 
-- Developing network security and penetration testing tools  
-- Writing Linux tutorials and automation scripts  
-- Contributing to open-source projects  
+- **Developing network security and penetration testing tools**   
+- **Writing Linux tutorials and automation scripts**  
+- **Contributing to open-source projects**
 
----
+## Tech Stack
+```bash
+# Languages I love working with
+C | Python | Shell
+
+# Areas of expertise
+CLI Tools | Shell | Scripting | System Integratio | Desktop Apps
+
+# Platforms
+Linux | Win | Web
+
+# Linux
+System Adminitration | Shell Scripting | Server Management
+
+# Cyber Security
+Network Security | Penetration Testing | Malware Analysis
+```
 
 ## Currently Learning
 
@@ -31,23 +39,22 @@ I focus on **Linux tutorials**, **scripting**, and building tools that enhance *
 
 ---
 
-## Connect with Me
-
-- **GitHub:** [ryanachmad12](https://github.com/ryanachmad12)  
-- **Instagram:** [ryan_achmad78](https://instagram.com/ryan_achmad78)  
-- **Email:** [ryan@opslinuxsec.com](mailto:ryan@opslinuxsec.com)  
-
----
-
 ## GitHub Statistics
 
-<div align="center">
+![Ryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanachmad12&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanachmad12&show_icons=true&theme=default&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanachmad12&layout=compact&theme=default&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanachmad12&theme=default&hide_border=true)  
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanachmad12&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9)
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanachmad12&theme=dark&hide_border=true)  
+
+
+## About Me
+
+**Terminal Enthusiast** - If it can be done in the terminal, that's where I'll do it
+
+**Open Source Advocate** - Believing in the power of community-driven development
+
+**Tool Builder** - I see a problem, I build a solution (usually a CLI tool)
 
 ---
 
@@ -58,6 +65,14 @@ I focus on **Linux tutorials**, **scripting**, and building tools that enhance *
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ryanachmad12&theme=flat&no-frame=true&margin-w=10&margin-h=10)
 
 </div>
+
+---
+
+## Connect with Me
+
+- **GitHub:** [ryanachmad12](https://github.com/ryanachmad12)  
+- **Instagram:** [ryan_achmad78](https://instagram.com/ryan_achmad78)  
+- **Email:** [ryan@opslinuxsec.com](mailto:ryan@opslinuxsec.com)  
 
 ---
 
