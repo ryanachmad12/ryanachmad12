@@ -18,7 +18,7 @@ I focus on **Linux tutorials**, **scripting**, and building tools that enhance *
 C | Python | Shell
 
 # Areas of expertise
-CLI Tools | Shell | Scripting | System Integratio | Desktop Apps
+CLI Tools | Shell | Scripting | Vim | I User Arch BTW
 
 # Platforms
 Linux | Win | Web
