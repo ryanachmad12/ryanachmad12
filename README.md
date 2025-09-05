@@ -5,8 +5,8 @@
 ---
 
 ## What I Build
-I'm a passionate **Programmer**, **Security Engineer**, and **Cybersecurity Researcher**.  
-I focus on **Linux tutorials**, **scripting**, and building tools that enhance **security** and **productivity**. that streamline workflows. My projects focus on:
+I'm a passionate **Network Engineer**, **Security Engineer**, and **Cybersecurity Researcher**.  
+I focus on **About all Linux**, **scripting**, and building tools that enhance **security** and **productivity**. that streamline workflows. My projects focus on:
 
 - **Developing network security and penetration testing tools**   
 - **Writing Linux tutorials and automation scripts**  
