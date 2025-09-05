@@ -1,46 +1,62 @@
-# 🌌 About Me
+# About Me
 
-Hello! I'm a passionate **Programmer**, **Coder**, **Security Engineering** and **Cybersecurity Researcher**. I specialize in Linux tutorials, scripting, and building tools that enhance security and productivity.
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-## 🚀 My Skills
-
-- **Programming Languages:** Python, Bash, C, JavaScript
-- **Cybersecurity:** Network Security, Penetration Testing, Malware Analysis
-- **Linux:** System Administration, Shell Scripting, Server Management
-- **Development Tools:** Git, Docker, VirtualBox
-
-## 🎯 Current Projects
-
-- **Cybersecurity Tools:** Building network security and penetration testing tools.
-- **Linux Tutorials:** Creating easy-to-follow guides for Linux users.
-- **Open-Source Contributions:** Actively contributing to various open-source projects.
-
-## 🌱 What I'm Learning
-
-- Cyberattack Prevention and Mitigation
-- Advanced Network Security Protocols
-- Security Analysis and Research
-- Building and Scripting Tools for User Convenience
-
-## 🌐 Connect with Me
-
-- **GitHub:** [Github Profile](https://github.com/ryanachmad12)
-- **Instagram:** [Instagram](https://instagram.com/ryan_achmad78)
-- **Email:** [Email](mailto:ryan@opslinuxsec.com)
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanachmad12&theme=radical)
-
-![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=ryanachmad12&theme=react-dark&hide_border=true&area=true)
-
-## ⚡ Fun Fact
-
-I enjoy solving CTF challenges, building virtual labs, and exploring new tech innovations!
+Hello! I'm a passionate **Programmer**, **Security Engineer**, and **Cybersecurity Researcher**.  
+I specialize in **Linux tutorials**, **scripting**, and building tools that enhance **security** and **productivity**.
 
 ---
 
-**“Stay curious, keep learning, and never stop building.”**
+## 🚀 Skills
 
+- **Programming:** Python, Bash, C, JavaScript  
+- **Cybersecurity:** Network Security, Penetration Testing, Malware Analysis  
+- **Linux:** System Administration, Shell Scripting, Server Management  
+- **Tools:** Git, Docker, VirtualBox  
+
+---
+
+## 🎯 Current Projects
+
+- Building **network security & penetration testing tools**  
+- Writing **Linux tutorials & automation scripts**  
+- Contributing to **open-source projects**  
+
+---
+
+## 🌱 Currently Learning
+
+- Cyberattack Prevention & Mitigation  
+- Advanced Network Security Protocols  
+- Security Analysis & Research  
+- Automation & Tooling for SysOps / SecOps  
+
+---
+
+## 🌐 Connect with Me
+
+- **GitHub:** [ryanachmad12](https://github.com/ryanachmad12)  
+- **Instagram:** [ryan_achmad78](https://instagram.com/ryan_achmad78)  
+- **Email:** [ryan@opslinuxsec.com](mailto:ryan@opslinuxsec.com)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanachmad12&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanachmad12&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanachmad12&theme=radical)  
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ryanachmad12&theme=radical&margin-w=10&margin-h=10&column=7)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving **CTF challenges**, building **virtual labs**, and exploring **new tech innovations**.
+
+---
+
+> **“Stay curious, keep learning, and never stop building.”**
