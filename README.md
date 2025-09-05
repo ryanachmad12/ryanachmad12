@@ -1,37 +1,37 @@
 # About Me
 
 Hello! I'm a passionate **Programmer**, **Security Engineer**, and **Cybersecurity Researcher**.  
-I specialize in **Linux tutorials**, **scripting**, and building tools that enhance **security** and **productivity**.
+I focus on **Linux tutorials**, **scripting**, and building tools that enhance **security** and **productivity**.
 
 ---
 
-## 🚀 Skills
+## Skills
 
-- **Programming:** Python, Bash, C, JavaScript  
+- **Programming:** Python, Bash, C  
 - **Cybersecurity:** Network Security, Penetration Testing, Malware Analysis  
 - **Linux:** System Administration, Shell Scripting, Server Management  
 - **Tools:** Git, Docker, VirtualBox  
 
 ---
 
-## 🎯 Current Projects
+## Current Projects
 
-- Building **network security & penetration testing tools**  
-- Writing **Linux tutorials & automation scripts**  
-- Contributing to **open-source projects**  
+- Developing network security and penetration testing tools  
+- Writing Linux tutorials and automation scripts  
+- Contributing to open-source projects  
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- Cyberattack Prevention & Mitigation  
+- Cyberattack Prevention and Mitigation  
 - Advanced Network Security Protocols  
-- Security Analysis & Research  
-- Automation & Tooling for SysOps / SecOps  
+- Security Analysis and Research  
+- Automation and Tooling for SysOps / SecOps  
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - **GitHub:** [ryanachmad12](https://github.com/ryanachmad12)  
 - **Instagram:** [ryan_achmad78](https://instagram.com/ryan_achmad78)  
@@ -39,24 +39,32 @@ I specialize in **Linux tutorials**, **scripting**, and building tools that enha
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanachmad12&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanachmad12&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanachmad12&theme=radical)  
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanachmad12&show_icons=true&theme=default&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanachmad12&layout=compact&theme=default&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanachmad12&theme=default&hide_border=true)  
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ryanachmad12&theme=radical&margin-w=10&margin-h=10&column=7)
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## Achievements
 
-I enjoy solving **CTF challenges**, building **virtual labs**, and exploring **new tech innovations**.
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ryanachmad12&theme=flat&no-frame=true&margin-w=10&margin-h=10)
+
+</div>
 
 ---
 
-> **“Stay curious, keep learning, and never stop building.”**
+## Fun Fact
+
+I enjoy solving CTF challenges, building virtual labs, and exploring new technology innovations.
+
+---
+
+**“Stay curious, keep learning, and never stop building.”**
