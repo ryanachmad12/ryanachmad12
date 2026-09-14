@@ -100,7 +100,6 @@ Sometimes it becomes a 2,000-line script because I apparently don't know when to
 
 ![Fortinet](https://img.shields.io/badge/Fortinet-111111?style=flat-square&logo=fortinet&logoColor=EE3124)
 ![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-111111?style=flat-square&logo=paloaltonetworks&logoColor=FA582D)
-![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7)
 
 ### Tools
 
