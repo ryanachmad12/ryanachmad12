@@ -20,7 +20,7 @@ Then usually turn into a script, a CLI tool, a lab, or a rabbit hole I probably 
 ## `~/interests`
 
 ```text
-NETWORKING       BGP · SD-WAN · Routing · Network Security
+NETWORKING       Data Center · SD-WAN · Routing · Network Security
 LINUX            System Administration · Server Management · Automation
 SECURITY         Network Security · Pentesting · Security Research
 DEVELOPMENT      C · Python · Shell
@@ -65,8 +65,6 @@ Sometimes it becomes a 2,000-line script because I apparently don't know when to
 > Advanced Network Security
 > Security Analysis & Research
 > Network Protocols & Routing
-> Cyberattack Prevention & Mitigation
-> Linux Internals
 > SysOps / SecOps Automation
 > Infrastructure Tooling
 > Network Architecture
@@ -204,11 +202,8 @@ philosophy  = build it first
 ```
 
 I use Arch btw.
-
 Not because it makes me better at Linux.
-
 It just gives me more opportunities to find out what I broke.
-
 And then spend the next two hours fixing something that was working perfectly before I touched it.
 
 ---
