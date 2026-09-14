@@ -1,12 +1,19 @@
 name: GitHub Snake Game
+
 on:
   schedule:
     - cron: "0 0 * * *"
 
   workflow_dispatch:
+
   push:
     branches:
       - main
+
+# IMPORTANT:
+# Allow GitHub Actions to push to the repository.
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -15,7 +22,8 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -26,8 +34,9 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
