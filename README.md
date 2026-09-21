@@ -1,6 +1,6 @@
 # Ryan Achmad
 
-**Network Engineer · Security Engineer · Linux Enthusiast**
+**Network Security Engineer · Network Operation Center · Linux Enthusiast**
 
 ```text
 $ whoami
@@ -105,8 +105,8 @@ Sometimes it becomes a 2,000-line script because I apparently don't know when to
 
 ![Vim](https://img.shields.io/badge/Vim-111111?style=flat-square&logo=vim&logoColor=019733)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Zabbix](https://img.shields.io/badge/Zabbix-111111?style=flat-square&logo=zabbix&logoColor=D40000)
-![PRTG](https://img.shields.io/badge/PRTG-111111?style=flat-square&logo=paessler&logoColor=white)
+![Notepad](https://img.shields.io/badge/notepad-111111?style=flat-square&logo=notepad&logoColor=D40000)
+![Coffee](https://img.shields.io/badge/coffee-111111?style=flat-square&logo=coffee&logoColor=white)
 
 ---
 
